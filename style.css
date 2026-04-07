@@ -6,7 +6,7 @@
 
 body{
     font-family: sans-serif;
-    background-color: #f7f9fc;
+    background-color: rgb(1, 4, 9);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -20,7 +20,7 @@ body{
 }
 
 h1{
-    color : #333;
+    color :rgb(255,127,80);
     margin-bottom:20px;
     font-size : 2rem;
 }
@@ -36,7 +36,7 @@ h1{
 }
 
 .list{
-    background-color: #e3e4e8;
+    background-color:rgb(13, 17, 23);
     padding:1rem;
     border-radius: 8px;
     width : 30%;
@@ -45,13 +45,13 @@ h1{
 }
 
 .list h2 {
-    color : #555;
+    color : rgb(121, 192, 218);
     margin-bottom : 1rem;
     font-size : 1.5rem;
 }
 
 .card{
-    background-color: white;
+    background-color:rgb(126, 231, 135);
     color: #333;
     padding: 1rem;
     margin-bottom: 10px;
@@ -68,7 +68,7 @@ h1{
 }
 
 .list.over{
-    background-color: #d1d3d8;
+    background-color: rgb(40, 44, 51);
 }
 
 @media (max-width: 768px){
